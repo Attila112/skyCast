@@ -20,14 +20,15 @@ This weather application, built with Vue.js, displays real-time temperature data
 ## Technologies Used
 
 - **Frontend Framework**
-  - Vue.js 3 (Composition API)
-  - Vite as build tool
+
+  - [![Vue][Vue.js]][Vue-url]
+  - [![Vite][Vite.js]][Vite-url]
+  
 
 - **Libraries & Tools**
+  - [![Lealfet][Leaflet.js]][Leaflet-url]
+  - [![CSS3][CSS3.fr]][CSS3-url]
   - Axios for API requests
-  - Leaflet.js for map integration
-  - Vue Router for navigation
-  - CSS3 for responsive design and animations
 
 - **APIs & Services**
   - OpenWeatherMap API
@@ -36,9 +37,9 @@ This weather application, built with Vue.js, displays real-time temperature data
   - CountriesNow API
 
 - **Development & Deployment**
-  - Docker for containerization
-  - Nginx as web server
-  - Git for version control
+  - [![Docker][Docker-shield]][Docker-url]
+  - [![Nginx][Nginx.en]][Nginx-url]
+  - [![Github][Github-logo]][Github-url]
 
 The application leverages modern web technologies and APIs to create a responsive, real-time weather tracking system with interactive mapping capabilities.
 
@@ -129,3 +130,18 @@ These APIs work together to deliver accurate location-based weather information 
 
 ## License
 This project is licensed under the MIT License.
+
+[Vue.js]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[Vue-url]: https://vuejs.org/
+[Vite.js]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
+[Vite-url]: https://vite.dev/
+[Leaflet.js]: https://a11ybadges.com/badge?logo=leaflet
+[Leaflet-url]: https://leafletjs.com/
+[CSS3.fr]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Docker-shield]:https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]:https://www.docker.com/
+[Nginx.en]: https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white
+[Nginx-url]: https://nginx.org/
+[Github-logo]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[Github-url]: https://github.com/
